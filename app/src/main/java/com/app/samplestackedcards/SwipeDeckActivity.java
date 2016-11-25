@@ -30,7 +30,7 @@ public class SwipeDeckActivity extends AppCompatActivity {
 
     private SwipeDeckAdapter adapter;
     private ArrayList<String> testData;
-//For third commit
+//For fourth commit
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
